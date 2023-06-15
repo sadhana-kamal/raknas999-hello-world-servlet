@@ -4,4 +4,5 @@ sample
 thnak you for practicing
 this is to check the changes
 github webhook added
-trying to see if the changes are working 
+trying to see if the changes are working
+today is thursaday 
